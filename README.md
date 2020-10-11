@@ -1,4 +1,4 @@
-### @CinderellaProBot // http://www.telegram.dog/CinderellaProBot
+### 𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃 // http://www.t.me/Dark_cobra_support
 > with HunterxHunter theme.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
@@ -16,8 +16,8 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
   </a>
 </p>
 
-### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/ac2665c0b47467881e0dd.jpg)](https://heroku.com/deploy?template=https://github.com/hellboi-atul/DARK-COBRA.git)
+### Click Below to Deploy
+[![Deploy](https://telegra.ph/file/60d792bd86b8b63aeabe3.jpg)](https://heroku.com/deploy?template=https://github.com/hellboi-atul/DARK-COBRA.git)
 
 ### Configuration
 
