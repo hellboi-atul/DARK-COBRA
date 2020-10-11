@@ -18,7 +18,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 
 ### Click Below to Deploy
 [![Deploy](https://telegra.ph/file/60d792bd86b8b63aeabe3.jpg)](https://heroku.com/deploy?template=https://github.com/hellboi-atul/DARK-COBRA.git)
-
+### Click on the above image to get redirected to the deployment page...
 ### Configuration
 
 There are two possible ways of configuring your bot: a config.py file, or ENV variables.
